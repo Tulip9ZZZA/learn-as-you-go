@@ -1,0 +1,22 @@
+{
+  "name": "learn-as-you-go",
+  "owner": {
+    "name": "Sulaiman (Tulip9ZZZA)",
+    "url": "https://github.com/Tulip9ZZZA"
+  },
+  "metadata": {
+    "description": "Quick side-answer to a tangent question without derailing the main task. Answers in under a screen, grounds new terms in the active build, cites one pointer, and explicitly returns to the main task.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "learn-as-you-go",
+      "description": "Model-invoked side-answer skill that keeps mid-build tangent questions under one screen and explicitly resumes the active task.",
+      "source": "./",
+      "strict": true,
+      "skills": [
+        "./skills/learn-as-you-go"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "learn-as-you-go",
+  "version": "1.0.0",
+  "description": "Quick side-answer to a tangent question without derailing the main task. Model-invoked Agent Skill for Claude Code, Cursor, Codex, and 70+ AI coding agents.",
+  "author": {
+    "name": "Sulaiman (Tulip9ZZZA)",
+    "url": "https://github.com/Tulip9ZZZA"
+  },
+  "homepage": "https://github.com/Tulip9ZZZA/learn-as-you-go",
+  "repository": "https://github.com/Tulip9ZZZA/learn-as-you-go",
+  "license": "MIT",
+  "keywords": [
+    "agent-skills",
+    "claude-code",
+    "learn-as-you-go",
+    "side-answer",
+    "context-hygiene",
+    "matt-pocock",
+    "developer-tools"
+  ]
+}
