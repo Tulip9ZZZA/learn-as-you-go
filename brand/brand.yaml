@@ -1,0 +1,29 @@
+schema_version: 1
+slug: learn-as-you-go
+name: Learn As You Go
+one_liner: Quick side-answers to mid-build tangent questions without derailing the main task.
+tagline: Answer first. Under a screen. Back to the build.
+archetype: The Sage-Craftsman
+status: active
+stage: established
+industry: developer-tools
+languages: [en]
+links:
+  domain: "https://github.com/Tulip9ZZZA/learn-as-you-go"
+  repo: "https://github.com/Tulip9ZZZA/learn-as-you-go"
+created: 2026-11-12
+updated: 2026-11-12
+version: 1
+artifacts:
+  context: true
+  naming: false
+  strategy: false
+  architecture: false
+  identity: true
+  voice: true
+  messaging: false
+  positioning: false
+  story: false
+  guidelines: true
+  audit: false
+  mod: false
