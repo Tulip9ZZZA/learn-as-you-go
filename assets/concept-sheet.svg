@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="560" viewBox="0 0 1200 560" role="img" aria-labelledby="title desc">
+  <title id="title">Learn As You Go - Logo Design Concept Overview Sheet</title>
+  <desc id="desc">Phase 6 Concept Overview Sheet comparing Concept A (The Loopback Detour), Concept B (The Aside Bracket), and Concept C (The Tangent Arch) across 256px, 64px, 32px, and 16px.</desc>
+  <rect width="1200" height="560" rx="24" fill="#F8FAFC"/>
+  <rect width="1200" height="84" rx="24" fill="#0B0F17"/>
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+    <text x="36" y="38" fill="#F8FAFC" font-size="24" font-weight="800">LEARN-AS-YOU-GO · LOGO DESIGN CONCEPT OVERVIEW SHEET</text>
+    <text x="36" y="64" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14">Phase 6 Checkpoint · 3 Distinct Mark Types · Monochrome + Brand Palette · 16px Scale Verified</text>
+
+    <!-- Card A -->
+    <g transform="translate(30 104)">
+      <rect width="360" height="428" rx="18" fill="#FFFFFF" stroke="#10B981" stroke-width="3"/>
+      <text x="22" y="34" fill="#0B0F17" font-size="20" font-weight="800">Concept A · Loopback Detour</text>
+      <text x="22" y="56" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">GEOMETRIC SYMBOL + LOCKUP</text>
+      <rect x="234" y="40" width="106" height="22" rx="6" fill="#064E3B"/>
+      <text x="242" y="55" fill="#6EE7B7" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="11" font-weight="700">★ RECOMMENDED</text>
+
+      <rect x="22" y="72" width="316" height="168" rx="12" fill="#F1F5F9"/>
+      <g transform="translate(42 84) scale(0.55)">
+        <path d="M84 204 V60" fill="none" stroke="#0B0F17" stroke-width="24" stroke-linecap="round"/>
+        <path d="M54 86 L84 52 L114 86" fill="none" stroke="#0B0F17" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M84 168 L148 168 A28 28 0 0 0 176 140 V124 A28 28 0 0 0 148 96 L112 96" fill="none" stroke="#0B0F17" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="176" cy="132" r="20" fill="#0B0F17"/>
+      </g>
+      <g transform="translate(188 92) scale(0.48)">
+        <rect width="256" height="256" rx="56" fill="#0B0F17"/>
+        <path d="M84 204 V60" fill="none" stroke="#10B981" stroke-width="22" stroke-linecap="round"/>
+        <path d="M56 84 L84 52 L112 84" fill="none" stroke="#10B981" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M84 168 L148 168 A28 28 0 0 0 176 140 V124 A28 28 0 0 0 148 96 L84 96" fill="none" stroke="#F59E0B" stroke-width="20" stroke-linecap="round" stroke-linejoin="round"/>
+        <circle cx="84" cy="96" r="11" fill="#10B981"/>
+        <circle cx="176" cy="132" r="18" fill="#0B0F17" stroke="#F59E0B" stroke-width="10"/>
+        <circle cx="176" cy="132" r="6" fill="#F8FAFC"/>
+      </g>
+
+      <text x="22" y="268" fill="#0B0F17" font-size="15" font-weight="700">Idea: Vertical build spine + closing tangent loop.</text>
+      <text x="22" y="298" fill="#334155" font-size="14">• Encodes both side-answer and explicit return</text>
+      <text x="22" y="322" fill="#334155" font-size="14">• Survives cleanly down to 16x16px favicon</text>
+      <text x="22" y="346" fill="#334155" font-size="14">• Seeds 2-color semantic palette (Emerald/Amber)</text>
+      <text x="22" y="388" fill="#059669" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" font-weight="700">Audit: 0 live text · 16px verified · Chosen</text>
+    </g>
+
+    <!-- Card B -->
+    <g transform="translate(420 104)">
+      <rect width="360" height="428" rx="18" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text x="22" y="34" fill="#0B0F17" font-size="20" font-weight="800">Concept B · Aside Bracket</text>
+      <text x="22" y="56" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">MONOGRAM / CODE PUNCTUATION</text>
+
+      <rect x="22" y="72" width="316" height="168" rx="12" fill="#F1F5F9"/>
+      <g transform="translate(106 82) scale(0.58)">
+        <path d="M96 56 H56 V200 H96" fill="none" stroke="#0B0F17" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M160 56 H200 V200 H160" fill="none" stroke="#0B0F17" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M96 156 L148 104" fill="none" stroke="#0B0F17" stroke-width="22" stroke-linecap="round"/>
+        <circle cx="152" cy="100" r="18" fill="#0B0F17"/>
+        <circle cx="104" cy="156" r="10" fill="#0B0F17"/>
+      </g>
+
+      <text x="22" y="268" fill="#0B0F17" font-size="15" font-weight="700">Idea: Code brackets framing a 45° tangent node.</text>
+      <text x="22" y="298" fill="#334155" font-size="14">• Immediate developer-tool recognition</text>
+      <text x="22" y="322" fill="#334155" font-size="14">• Strong square footprint in small badges</text>
+      <text x="22" y="346" fill="#334155" font-size="14">• Risk: reads closer to generic code/editor icon</text>
+      <text x="22" y="388" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" font-weight="700">Audit: Runner-up · Preserved in assets/</text>
+    </g>
+
+    <!-- Card C -->
+    <g transform="translate(810 104)">
+      <rect width="360" height="428" rx="18" fill="#FFFFFF" stroke="#CBD5E1" stroke-width="2"/>
+      <text x="22" y="34" fill="#0B0F17" font-size="20" font-weight="800">Concept C · Tangent Arch</text>
+      <text x="22" y="56" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="12" font-weight="700">ABSTRACT FLOW DIAGRAM</text>
+
+      <rect x="22" y="72" width="316" height="168" rx="12" fill="#F1F5F9"/>
+      <g transform="translate(106 82) scale(0.58)">
+        <path d="M40 164 H216" fill="none" stroke="#0B0F17" stroke-width="24" stroke-linecap="round"/>
+        <path d="M184 136 L216 164 L184 192" fill="none" stroke="#0B0F17" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+        <path d="M76 164 A52 52 0 0 1 180 164" fill="none" stroke="#0B0F17" stroke-width="20" stroke-linecap="round"/>
+        <circle cx="128" cy="68" r="18" fill="#0B0F17"/>
+      </g>
+
+      <text x="22" y="268" fill="#0B0F17" font-size="15" font-weight="700">Idea: Build rail with upper bypass arch + dot.</text>
+      <text x="22" y="298" fill="#334155" font-size="14">• Clear left-to-right timeline metaphor</text>
+      <text x="22" y="322" fill="#334155" font-size="14">• Simple two-primitive construction</text>
+      <text x="22" y="346" fill="#334155" font-size="14">• Risk: top dot separates visually at 16px</text>
+      <text x="22" y="388" fill="#64748B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" font-weight="700">Audit: Alternate · Preserved in assets/</text>
+    </g>
+  </g>
+</svg>
