@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Concept A - The Loopback Detour</title>
+  <desc id="desc">Single-color black mark built for 16px to billboard scaling.</desc>
+  <path d="M84 204 V60" fill="none" stroke="#0B0F17" stroke-width="24" stroke-linecap="round"/>
+  <path d="M54 86 L84 52 L114 86" fill="none" stroke="#0B0F17" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M84 168 L148 168 A28 28 0 0 0 176 140 V124 A28 28 0 0 0 148 96 L112 96" fill="none" stroke="#0B0F17" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="176" cy="132" r="20" fill="#0B0F17"/>
+</svg>

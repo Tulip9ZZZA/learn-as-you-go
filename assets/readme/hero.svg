@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="410" viewBox="0 0 1200 410" role="img" aria-labelledby="title desc">
+  <title id="title">learn-as-you-go: Quick side-answers without derailing the main build</title>
+  <desc id="desc">Project-native split hero showing the learn-as-you-go brand identity on the left and a live terminal side-answer proof on the right.</desc>
+  <defs>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#F8FAFC" stroke-opacity="0.04"/>
+    </pattern>
+    <clipPath id="hero-clip">
+      <rect width="1200" height="410" rx="28"/>
+    </clipPath>
+  </defs>
+  <g clip-path="url(#hero-clip)">
+    <rect width="1200" height="410" rx="28" fill="#0B0F17"/>
+    <rect width="1200" height="410" rx="28" fill="url(#grid)"/>
+    <circle cx="1110" cy="64" r="160" fill="#F59E0B" fill-opacity="0.07"/>
+    <circle cx="960" cy="360" r="180" fill="#10B981" fill-opacity="0.07"/>
+
+    <g transform="translate(56 44)" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,sans-serif">
+      <rect x="0" y="0" width="44" height="44" rx="12" fill="#131C2E" stroke="#1E293B" stroke-width="1.5"/>
+      <path d="M16 35 V11" fill="none" stroke="#10B981" stroke-width="4" stroke-linecap="round"/>
+      <path d="M11 16 L16 10 L21 16" fill="none" stroke="#10B981" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+      <path d="M16 29 H27 A5 5 0 0 0 32 24 V21 A5 5 0 0 0 27 16 H16" fill="none" stroke="#F59E0B" stroke-width="3.6" stroke-linecap="round"/>
+      <circle cx="32" cy="22.5" r="3.5" fill="#F59E0B"/>
+
+      <text x="58" y="19" fill="#F59E0B" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" font-weight="700" letter-spacing="2">AGENT SKILL · MODEL-INVOKED</text>
+      <text x="58" y="39" fill="#94A3B8" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="13" font-weight="500">v1.0.0 · MIT · ZERO-DERAIL PROTOCOL</text>
+
+      <text x="0" y="122" fill="#F8FAFC" font-size="64" font-weight="800" letter-spacing="-2">learn-as-you-go</text>
+      <rect x="0" y="142" width="168" height="6" rx="3" fill="#10B981"/>
+      <rect x="180" y="142" width="76" height="6" rx="3" fill="#F59E0B"/>
+
+      <text x="0" y="194" fill="#E2E8F0" font-size="23" font-weight="600">Answer mid-build tangents in under a screen.</text>
+      <text x="0" y="226" fill="#94A3B8" font-size="20" font-weight="400">Ground new terms, cite one source pointer, and</text>
+      <text x="0" y="254" fill="#94A3B8" font-size="20" font-weight="400">explicitly resume the main task without losing flow.</text>
+
+      <g transform="translate(0 286)" font-family="ui-monospace,SFMono-Regular,Menlo,monospace" font-size="14" font-weight="600">
+        <rect x="0" y="0" width="146" height="36" rx="8" fill="#131C2E" stroke="#10B981" stroke-width="1.5"/>
+        <text x="16" y="23" fill="#10B981">✓ Answer First</text>
+
+        <rect x="160" y="0" width="156" height="36" rx="8" fill="#131C2E" stroke="#F59E0B" stroke-width="1.5"/>
+        <text x="176" y="23" fill="#F59E0B">✓ &lt; 1 Screen Cap</text>
+
+        <rect x="330" y="0" width="194" height="36" rx="8" fill="#131C2E" stroke="#38BDF8" stroke-width="1.5"/>
+        <text x="346" y="23" fill="#38BDF8">✓ Explicit Return</text>
+      </g>
+    </g>
+
+    <g transform="translate(628 36)" font-family="ui-monospace,SFMono-Regular,Menlo,monospace">
+      <rect x="0" y="0" width="524" height="338" rx="18" fill="#111827" stroke="#334155" stroke-width="2"/>
+      <rect x="0" y="0" width="524" height="40" rx="18" fill="#1E293B"/>
+      <circle cx="22" cy="20" r="6" fill="#EF4444"/>
+      <circle cx="42" cy="20" r="6" fill="#F59E0B"/>
+      <circle cx="62" cy="20" r="6" fill="#10B981"/>
+      <text x="86" y="25" fill="#94A3B8" font-size="13" font-weight="600">claude-code · session: auth-refactor</text>
+
+      <rect x="20" y="56" width="484" height="42" rx="8" fill="#1E293B"/>
+      <text x="34" y="82" fill="#FCD34D" font-size="15" font-weight="700">&gt; quick question: what is a seam in TDD?</text>
+
+      <text x="24" y="128" fill="#10B981" font-size="15" font-weight="700">Answer.</text>
+      <text x="96" y="128" fill="#F8FAFC" font-size="15">A seam is a public boundary where you alter or</text>
+      <text x="24" y="150" fill="#F8FAFC" font-size="15">observe behavior without editing internals.</text>
+
+      <rect x="24" y="168" width="4" height="40" rx="2" fill="#F59E0B"/>
+      <text x="38" y="185" fill="#CBD5E1" font-size="14">In this task, AuthGateway.verify() is the seam</text>
+      <text x="38" y="205" fill="#CBD5E1" font-size="14">where our red test injects the fake token signer.</text>
+
+      <text x="24" y="242" fill="#38BDF8" font-size="15" font-weight="700">Source.</text>
+      <text x="96" y="242" fill="#94A3B8" font-size="14">Michael Feathers, Working Effectively with Legacy Code</text>
+
+      <rect x="20" y="264" width="484" height="54" rx="10" fill="#064E3B" fill-opacity="0.45" stroke="#10B981" stroke-width="1.5"/>
+      <text x="34" y="288" fill="#34D399" font-size="15" font-weight="700">Back to auth-refactor.</text>
+      <text x="34" y="308" fill="#ECFDF5" font-size="14">Run failing test on AuthGateway.verify() token expiry.</text>
+    </g>
+  </g>
+</svg>

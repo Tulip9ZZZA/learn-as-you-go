@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Concept B - The Aside Bracket</title>
+  <desc id="desc">Geometric code bracket with an inline tangent node inside a single-screen frame.</desc>
+  <path d="M96 56 H56 V200 H96" fill="none" stroke="#0B0F17" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M160 56 H200 V200 H160" fill="none" stroke="#0B0F17" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M96 156 L148 104" fill="none" stroke="#0B0F17" stroke-width="22" stroke-linecap="round"/>
+  <circle cx="152" cy="100" r="18" fill="#0B0F17"/>
+  <circle cx="104" cy="156" r="10" fill="#0B0F17"/>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Concept C - The Tangent Arch</title>
+  <desc id="desc">Horizontal main build rail with an upper semicircular tangent arch that closes back into the rail.</desc>
+  <path d="M40 164 H216" fill="none" stroke="#0B0F17" stroke-width="24" stroke-linecap="round"/>
+  <path d="M184 136 L216 164 L184 192" fill="none" stroke="#0B0F17" stroke-width="24" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M76 164 A52 52 0 0 1 180 164" fill="none" stroke="#0B0F17" stroke-width="20" stroke-linecap="round"/>
+  <circle cx="128" cy="68" r="18" fill="#0B0F17"/>
+</svg>

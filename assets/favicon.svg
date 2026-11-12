@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="256" height="256" viewBox="0 0 256 256" role="img" aria-labelledby="title desc">
+  <title id="title">Learn As You Go Favicon</title>
+  <desc id="desc">Small-size optimized loopback detour icon for 16px and 32px favicons.</desc>
+  <rect width="256" height="256" rx="52" fill="#0B0F17"/>
+  <path d="M80 208 V56" fill="none" stroke="#10B981" stroke-width="28" stroke-linecap="round"/>
+  <path d="M48 88 L80 48 L112 88" fill="none" stroke="#10B981" stroke-width="28" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M80 172 L152 172 A32 32 0 0 0 184 140 V124 A32 32 0 0 0 152 92 L80 92" fill="none" stroke="#F59E0B" stroke-width="26" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="184" cy="132" r="22" fill="#F59E0B"/>
+</svg>
